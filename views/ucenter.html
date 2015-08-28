@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>my ucenter</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+	<style type="text/css">
+	table { border:1px solid green;}
+	table thead tr th{ border:1px solid green;}
+	table tbody tr td{ border:1px solid green;}
+	</style>
+  </head>
+  <body>
+    <h1>Hello World</h1>
+    <p>你已经成功登陆</p>
+
+	<table>
+		<thead>
+			<tr><th>id</th>
+				
+				<th>uid</th>
+				<th>title</th>
+				<th>source</th>
+				<th>authors</th>
+				
+			</tr>
+		</thead>
+		<tbody>
+			
+			<% info.forEach(function( demo ){ %>
+			<tr>
+				
+				<td><%=demo._id%></td>
+				<td><%= demo.uid %></td>
+				
+				<td><%= demo.title.value %></td>
+				<td><% demo.source.forEach(function(so){%>
+				<%= so.label%>:<%=so.value%><br>
+				<%});%></td>
+
+				<td><%= demo.authors.value %></td>
+			</tr>
+			<% });%>
+			</tbody>
+	</table>
+				
+  </body>
+</html>

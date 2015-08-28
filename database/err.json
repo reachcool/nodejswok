@@ -1,0 +1,117 @@
+null
+null
+1Wie5NDghL1zUN49P4s
+null
+undefined
+null
+null
+3WAwXtAMGoVJNMmq5kq
+null
+undefined
+search
+null
+null
+null
+1W5nawu9SorBSZuizGr
+null
+undefined
+search
+null
+{ return: 
+   { queryId: '1',
+     recordsFound: 7,
+     recordsSearched: '971963',
+     records: 
+      [ [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object] ] } }
+null
+null
+3WZXtpSgqqXNg6OaD2n
+null
+undefined
+search
+null
+[ { uid: 'WOS:000353823800060',
+    title: [ [Object] ],
+    source: [ [Object], [Object], [Object], [Object], [Object] ],
+    authors: [ [Object] ],
+    keywords: [ [Object] ],
+    other: 
+     [ [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object] ] },
+  { uid: 'WOS:000354404800126',
+    title: [ [Object] ],
+    source: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    authors: [ [Object] ],
+    other: 
+     [ [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object] ] },
+  { uid: 'WOS:000352253100012',
+    title: [ [Object] ],
+    source: [ [Object], [Object], [Object], [Object], [Object] ],
+    authors: [ [Object] ],
+    keywords: [ [Object] ],
+    other: 
+     [ [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object] ] },
+  { uid: 'WOS:000348662400002',
+    title: [ [Object] ],
+    source: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    authors: [ [Object] ],
+    other: 
+     [ [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object] ] },
+  { uid: 'WOS:000346570300099',
+    title: [ [Object] ],
+    source: [ [Object], [Object], [Object], [Object], [Object] ],
+    authors: [ [Object] ],
+    other: [ [Object], [Object], [Object], [Object], [Object], [Object] ] },
+  { uid: 'WOS:000354457800021',
+    title: [ [Object] ],
+    source: [ [Object], [Object], [Object], [Object], [Object] ],
+    authors: [ [Object] ],
+    other: 
+     [ [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object] ] },
+  { uid: 'WOS:000349758300010',
+    title: [ [Object] ],
+    source: [ [Object], [Object], [Object], [Object], [Object] ],
+    authors: [ [Object] ],
+    other: 
+     [ [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object] ] } ]
